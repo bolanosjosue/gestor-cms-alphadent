@@ -38,7 +38,6 @@
     <link rel="stylesheet" href="{{ asset('css/mousecursor.css') }}">
     <!-- Main Custom Css -->
     <link href="{{ asset('css/custom.css') }}" rel="stylesheet" media="screen">
-    <link href="http://127.0.0.1:8000/css/blog-details.css" rel="stylesheet" media="screen">
 
 </head>
 
