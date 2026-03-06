@@ -6,7 +6,7 @@
     <title>Login - Mini CMS</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ asset('css/auth.css') }}">
-    <link rel="shortcut icon" type="image/x-icon" href="assets/logo.png">
+    <link rel="shortcut icon" type="image/x-icon" href="/images/logof.png">
 
 </head>
 

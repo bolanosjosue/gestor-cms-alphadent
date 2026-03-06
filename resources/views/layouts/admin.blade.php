@@ -9,7 +9,7 @@
     <!-- TinyMCE editor -->
     <script src="https://cdn.tiny.cloud/1/72fxp7mkideo5krnt1km07lrwqmynpg5he82zrhk68pawg46/tinymce/6/tinymce.min.js"
         referrerpolicy="origin"></script>
-    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/logo.png') }}">
+    <link rel="shortcut icon" type="image/x-icon" href="/images/logof.png">
 
 </head>
 
