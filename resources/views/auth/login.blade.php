@@ -46,10 +46,6 @@
             </div>
 
             <button type="submit" class="btn">Entrar</button>
-
-            <div class="muted">
-                Usuario demo (seeder): <strong>admin@example.com</strong> / <strong>password</strong>
-            </div>
         </form>
     </div>
 </body>

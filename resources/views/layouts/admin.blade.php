@@ -16,7 +16,7 @@
 <body>
     <div class="wrap">
         <aside>
-            <h1>Mini CMS</h1>
+            <h1>AlphaDent</h1>
 
             <div class="nav">
                 <a href="{{ route('admin.dashboard') }}"
