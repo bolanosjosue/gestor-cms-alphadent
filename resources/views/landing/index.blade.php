@@ -915,7 +915,7 @@
                     <!-- Section Title Start -->
                     <div class="section-title">
                         <h3 class="wow fadeInUp">RECURSOS</h3>
-                        <h2 class="text-anime-style-3">Artículos contables y fiscales en Costa Rica</h2>
+                        <h2 class="text-anime-style-3">Consejos de salud dental para cuidar su sonrisa</h2>
                     </div>
                     <!-- Section Title End -->
                 </div>
@@ -923,7 +923,7 @@
                 <div class="col-lg-6">
                     <!-- Section Title Content Start -->
                     <div class="section-title-content wow fadeInUp" data-wow-delay="0.25s">
-                        <p>Consejos y guías sobre contabilidad, Hacienda, IVA y facturación electrónica.</p>
+                        <p>Guías prácticas sobre higiene oral, prevención, tratamientos y recomendaciones de nuestros especialistas.</p>
                     </div>
                     <!-- Section Title Content End -->
                 </div>
