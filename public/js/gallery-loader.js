@@ -19,11 +19,18 @@
             to: 5
         },
 
+        aseguradoras: {
+            folder: "aseguradoras",
+            prefix: "aseguradoras",
+            from: 1,
+            to: 2
+        },
+
         boletines: {
             folder: "boletines",
             prefix: "boletin",
             from: 1,
-            to: 11
+            to: 10
         }
     };
     const select = document.getElementById("galleryAlbumSelect");

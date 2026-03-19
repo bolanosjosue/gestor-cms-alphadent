@@ -121,6 +121,7 @@
                     <select id="galleryAlbumSelect" class="gallery-select">
                         <option value="alphadent">AlphaDent</option>
                         <option value="alphakids">AlphaKids</option>
+                        <option value="aseguradoras">Aseguradoras</option>
                         <option value="boletines">Información adicional</option>
                     </select>
                 </div>
